@@ -211,6 +211,14 @@ top: 2em;
   right: 8rem;
   bottom: 5rem;
 }
+.engine {
+position: relative;
+padding-left: 20%;
+top: 3em;
+}
+.title {
+  text-align: center;
+}
 .irr {
   width: 20%;}
 .rus {
