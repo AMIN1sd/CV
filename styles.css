@@ -38,12 +38,11 @@ body {
 .head-2 {
   position: relative;
   top: 5rem;
-  left:9rem;
+  left: 9rem;
   color: #fff;
   font-size: 320%;
-  width: 80%;
   font-family: serif;
-  padding-left: 12rem;
+  padding-left: 6rem;
 }
 .info {
   position: relative;
@@ -216,8 +215,10 @@ position: relative;
 padding-left: 20%;
 top: 3em;
 }
-.title {
-  text-align: center;
+
+.head-2 {
+  margin-right:  0;
+  width: 20rem;
 }
 .irr {
   width: 20%;}
