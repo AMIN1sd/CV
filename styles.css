@@ -28,26 +28,26 @@ body {
 
 .head-1 {
   position: relative;
-  top: 7rem;
-  left:7rem;
+  top: 5rem;
+  left:9rem;
   color: #fff;
-  font-size: 320%;
-  width: 14em;
+  font-size: 40px;
+  width: 80%;
   font-family: serif;
 }
 .head-2 {
   position: relative;
-  top: 7rem;
-  left:7rem;
+  top: 5rem;
+  left:9rem;
   color: #fff;
   font-size: 320%;
-  width: 14rem;
+  width: 80%;
   font-family: serif;
-  margin-left: 12rem;
+  padding-left: 12rem;
 }
 .info {
   position: relative;
-  top: 8rem;
+  top: 5rem;
   left: 7rem;
   color: #fff;
   text-align: center;
@@ -71,10 +71,12 @@ body {
 /* Centered text */
 
 .round {
+  text-align: center;
   padding: 3rem 0 1rem;
   position: relative;
   background: linear-gradient(90deg,#a6a6a6, #ffffff);
   z-index: 3;
+
 }
 .centered {
   font-size: 2rem;
@@ -83,7 +85,6 @@ body {
   font-weight: 700;
   letter-spacing: 10px;
   color: #545454;
-  width: 20rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -129,7 +130,9 @@ span {
   margin-top: 1rem;
   margin-left: 7rem;
 }
-
+.Experties-row {
+  width: 99.99%;
+}
 /* Branding mock  */
 
 .branding-pic {
@@ -140,8 +143,10 @@ margin: 3% 15% 7%;
 
 .engine {
 position: relative;
-left: 2em;
 top: 3em;
+}
+.mechanic-row {
+  width: 99.99%;
 }
 /* Multilingual */
 
@@ -156,8 +161,6 @@ top: 3em;
 
 .global-pic {
   position: relative;
-  left: 3em;
-
 }
 
 .irr{
@@ -221,4 +224,3 @@ top: 2em;
 padding-top: 5rem;
 }
 }
-
